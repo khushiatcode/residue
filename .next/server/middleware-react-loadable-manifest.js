@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST='{"app/page.tsx -> @/components/Canvas":{"id":9891,"files":["static/chunks/891.86e3fa2086fedfac.js"]}}';

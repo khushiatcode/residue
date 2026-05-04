@@ -1,0 +1,42 @@
+:root {
+  --void:  #080808;
+  --fog:   #1a1a2e;
+  --mist:  #E8E8F0;
+  --ghost: rgba(232, 232, 240, 0.15);
+  --rain:  #7EB8F7;
+  --storm: #4A6FA5;
+  --sun:   #F5C842;
+  --heat:  #E8724A;
+  --calm:  #7FBFA8;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: var(--void);
+  font-family: 'Fragment Mono', monospace;
+  color: var(--mist);
+  -webkit-font-smoothing: antialiased;
+}
+
+button {
+  font-family: 'Fragment Mono', monospace;
+}
+
+input, textarea {
+  font-family: 'Fragment Mono', monospace;
+}
+
+::selection {
+  background: rgba(126, 184, 247, 0.2);
+}
+
+/* Scrollbar — invisible but functional */
+::-webkit-scrollbar { width: 0; }
