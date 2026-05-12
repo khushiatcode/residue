@@ -2,7 +2,7 @@
 
 Residue turns how you type into weather.
 
-Not what you type. How. The pauses between words, the corrections you make, the moments when thought outpaces doubt — all of it becomes atmosphere. Rain. Clouds. Wind. A sky that shifts as you write.
+Not what you type. How. The pauses between words, the corrections you make, the moments when thought outpaces doubt, all of it becomes atmosphere. Rain. Clouds. Wind. A sky that shifts as you write.
 
 Live: https://residue-iota.vercel.app
 
@@ -44,7 +44,7 @@ The analysis view shows the session as data: a timeline of four signals, a finge
 
 No AI. No server calls. No external APIs of any kind.
 
-The weather is a pure function of your keystrokes. The audio — filtered white noise rain, procedural thunder, a barely-audible flow tone at 220/330/440 Hz — is synthesized live in the Web Audio API. The composite export (1800×900 image with session data) is built on an offscreen canvas in the browser.
+The weather is a pure function of your keystrokes. The audio, filtered white noise rain, procedural thunder, a barely-audible flow tone at 220/330/440 Hz — is synthesized live in the Web Audio API. The composite export (1800×900 image with session data) is built on an offscreen canvas in the browser.
 
 Same words typed differently produce different weather. The system has no memory of your intent, only your behavior.
 
