@@ -67,7 +67,7 @@ The canvas accumulates. Each 10-second snapshot layers into a residue beneath th
 
 When you save, you're not screenshotting the canvas. You're downloading a composite: the weather you made, alongside the session data that explains it. The timestamp, the signals, the reading. A self-portrait of that particular hour.
 
-Open it at 11pm with something you've been avoiding. See what the sky does.
+Open it at 11 pm with something you've been avoiding. See what the sky does.
 
 ---
 
